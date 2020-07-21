@@ -1,0 +1,9 @@
+# class-01
+## Tell us about yourself
+- I have always been interested in science. In particular, I’m interested in doing my part to accelerate the advancement of science in every field. I believe the most efficient way to do that is to create open source drones to be used in oceanography. When looking at the history of hobby rockets and aerial drones the biggest contributing factor in their popularity is the ability to relatively easily and cheaply turn them into a hobby. When people can put their creativity to the test and really learn, understand and modify whatever they’re working with without restriction it just becomes more interesting and more fun. For this reason in combination with the proclaimed lack of interest in oceanography my goal for now is to bring attention to the field by making publicly available an open source deep sea drone. Which is actually why I’m here. One of the most important factors in robotics is their range, so that makes the work you’re doing with wireless charging incredibly important.
+## Why should we hire you
+- I’m not just here for the money or for the experience. I believe in what you do here and I’d like to see it fully realized. For this reason I’d be taking the success of this company very personally and work hard and smartly to accomplish the mission.
+## What is your greatest strength
+- I’d consider my ambition to be my greatest strength. It makes me excited to start and even more excited to continue through obstacles.
+## What is your greatest weakness
+- My dreams of the future can sometimes catch hold of me and cause me to think too much about the plan and not act on it in a timely manner. For example, 
