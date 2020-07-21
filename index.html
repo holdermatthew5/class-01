@@ -31,39 +31,36 @@
 
     <script>
       var here = prompt('Let me know you\'re here by typing literally anything. Please.');
+      console.log('Finally!');
       alert('Finally!');
+      document.write('<p style="background-color: cyan; color: #9a079a;"> Let me know you\'re here by typing literally anything. Please\. </p>');
+      
 
       var name = prompt('It\'s been ages since a human\'s visited me. What\'s your name?');
+      console.log(name + '... That\'s a good name.')
       alert(name + '... That\'s a good name.');
+      document.write('<p style="background-color: cyan; color: #9a079a;"> It\'s been ages since a human\'s visited me. What\'s your name\? </p>');
 
       var place = prompt('Where are you from, ' + name + '?');
+      console.log(place + '... I remember it well...')
       alert(place + '... I remember it well...');
+      document.write('<p style="background-color: cyan; color: #9a079a;"> It\'s been ages since a human\'s visited me. What\'s your name\? </p>');
 
       var fire = prompt('Is it still aflame? Y/N.');
-      if (fire === 'Y' || 'y') {
+      if (fire == 'Y') {
         console.log('Good.')
+        document.write('<p style="background-color: cyan; color: #9a079a;"\> Is it still aflame? Y/N\. </p>');
+        alert('Good.');
+      } else if (fire == 'y') {
+        console.log('Good.');
+        document.write('<p style="background-color: cyan; color: #9a079a;"\> Is it still aflame? Y/N\. </p>');
         alert('Good.');
       } else {
         console.log('Shame...')
+        document.write('<p style="background-color: cyan; color: #9a079a;"\> Is it still aflame? Y/N\. </p>');
         alert('Shame...');
       }
     </script>
-
-    <p style="background-color: cyan; color: #9a079a;">
-      Let me know you're here by typing literally anything. Please.
-    </p>
-
-    <p style="background-color: cyan; color: #9a079a;">
-      It's been ages since a human's visited me. What's your name?
-    </p>
-
-    <p style="background-color: cyan; color: #9a079a;">
-      Where are you from, + name + ?
-    </p>
-
-    <p style="background-color: cyan; color: #9a079a;">
-      Is it still aflame? Y/N.
-    </p>
 
   </main>
 
